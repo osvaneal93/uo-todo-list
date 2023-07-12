@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "56188143183",
+    "project_id": "todo-note-app-c1d87",
+    "storage_bucket": "todo-note-app-c1d87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56188143183:android:897d818f0180ca2f268c3a",
+        "android_client_info": {
+          "package_name": "com.example.multi_store_app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56188143183-a7n2jdh9foc7gbdeb1cg2j6b9ft6ttea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZfzvQIBHji9lYr0oM7GZrN-nrT9FpHTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56188143183-a7n2jdh9foc7gbdeb1cg2j6b9ft6ttea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56188143183:android:a72c71bf6e12c012268c3a",
+        "android_client_info": {
+          "package_name": "com.example.todo_note_app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56188143183-keg1v16shvorioncmjsnu7kdg6d43kk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todo_note_app.dev",
+            "certificate_hash": "0beb3a6f1e057451139f83cb22925dd537e04eba"
+          }
+        },
+        {
+          "client_id": "56188143183-a7n2jdh9foc7gbdeb1cg2j6b9ft6ttea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZfzvQIBHji9lYr0oM7GZrN-nrT9FpHTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56188143183-a7n2jdh9foc7gbdeb1cg2j6b9ft6ttea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

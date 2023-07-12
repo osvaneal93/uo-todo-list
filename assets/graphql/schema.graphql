@@ -1,0 +1,27 @@
+# ./lib/schema.graphql
+
+type Query {
+  fetch_person(id: ID!): Person
+}
+
+type Person {
+  full_name: String!
+  nickname: String
+  website: URL
+  date_of_birth: ISODateTime
+  parents: [Person!]
+  siblings: [Person!]
+  children: [Person!]
+}
+
+scalar ISODateTime
+
+scalar URL
+
+# ./lib/person.graphql
+
+query FetchPerson($id: ID!) {
+  fetch_person(id: $id) {
+    name: full_name
+  }
+}
